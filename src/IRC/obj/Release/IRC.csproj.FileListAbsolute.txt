@@ -1,0 +1,7 @@
+D:\LOIC\src\bin\Release\IRC.dll
+D:\LOIC\src\bin\Release\IRC.pdb
+D:\LOIC\src\IRC\obj\Release\IRC.csproj.AssemblyReference.cache
+D:\LOIC\src\IRC\obj\Release\IRC.csproj.CoreCompileInputs.cache
+D:\LOIC\src\IRC\obj\Release\IRC.csproj.Up2Date
+D:\LOIC\src\IRC\obj\Release\IRC.dll
+D:\LOIC\src\IRC\obj\Release\IRC.pdb

@@ -1,0 +1,13 @@
+/src/bin/
+/src/obj/
+*.ReSharper.user
+_ReSharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*~
+*.swp
+*DotSettings*
+/src/.vs/
